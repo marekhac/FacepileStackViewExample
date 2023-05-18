@@ -9,5 +9,4 @@ To create facepile:
 
 Here is the demo of how it works.
 
-https://github.com/marekhac/FacepileStackViewExample/assets/15977848/a860f250-aa1f-4b2b-834a-25266c98ad1f
-
+https://github.com/marekhac/FacepileStackViewExample/assets/15977848/1cae438b-78a8-4de1-a7b9-5bb11239bd39
