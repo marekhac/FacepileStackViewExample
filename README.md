@@ -9,6 +9,5 @@ To create facepile:
 
 Here is the demo of how it works.
 
-<video width="640" height="640" controls>
-  <source src="demo.mov" type="video/mp4">
-</video>
+https://github.com/marekhac/FacepileStackViewExample/assets/15977848/a860f250-aa1f-4b2b-834a-25266c98ad1f
+
